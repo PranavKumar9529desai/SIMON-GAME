@@ -17,3 +17,6 @@ Repeat the sequence by clicking the corresponding buttons.
 With each correct sequence, the game adds a new step to the pattern.
 Make a mistake, and the game will reset.
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/2831a7f9-f091-42cb-9843-861fd2f34472)
